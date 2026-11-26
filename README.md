@@ -59,6 +59,7 @@
 - [Maven](https://maven.apache.org/) – Dependency management and build tool for Java.
 - [pytest](https://docs.pytest.org/) – Popular Python testing framework.
 - [JUnit](https://junit.org/) – Standard testing framework for Java applications.
+- [Keploy](https://keploy.io/) – Open-source API testing tool that turns recorded traffic into regression tests and mocks, run as a step in GitHub Actions, GitLab CI or Jenkins.
 
 ## Container & Kubernetes CI/CD
 
