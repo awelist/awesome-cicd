@@ -115,6 +115,7 @@
 - [CI/CD with GitHub Actions](https://docs.github.com/en/actions) – Official GitHub Actions documentation and examples.
 - [GitLab CI/CD Tutorials](https://docs.gitlab.com/ee/ci/examples/) – Practical GitLab pipeline examples.
 - [Jenkins User Documentation](https://www.jenkins.io/doc/) – Guides for Jenkins pipelines and administration.
+- [Keploy CI/CD Integration](https://keploy.io/docs/ci-cd/github/) – Running recorded API regression tests as a step in a GitHub Actions workflow.
 
 ### Guides
 - [CI/CD Best Practices](https://docs.gitlab.com/ee/ci/pipelines/best_practices.html) – Recommended pipeline design patterns.
